@@ -1,0 +1,113 @@
+[en]
+KILL_MSG_1 = Objective Failed^nFailure Is Not An Option^nYou Die Now
+SLAY_MSG_2 = Die L0s3rs!!!
+SLAY_MSG_3 = Try to complete the mission....
+SLAY_MSG_4 = Die Die Die Die!!!^nLos3rs!
+
+[hu]
+KILL_MSG_1 = Feladat Sikertelen^nSikertelen Turhetetlen^nMost Meghalsz
+SLAY_MSG_2 = L0s3rs Dogoljetek Meg!!!
+SLAY_MSG_3 = Probald meg teljesiteni a feladatot....
+SLAY_MSG_4 = Halal, Halal, Halal!!!^nVesztesek!
+
+[de]
+KILL_MSG_1 = Ziel nicht erreicht.^nMi?erfolg war keine Zielvorgabe.^nDu wirst jetzt sterben!
+SLAY_MSG_2 = Sterbt Versager!!!
+SLAY_MSG_3 = Versuche die Mission zu erfuellen...
+SLAY_MSG_4 = Sterbt Sterbt Sterbt Sterbt!!!^nVersager!
+
+[fin]
+KILL_MSG_1 = Kohde epaonnistui^nEpaonnistuminen ei ole valinta^nSina kuolet nyt!
+SLAY_MSG_2 = Kuolkaa luuserit!!!
+SLAY_MSG_3 = Yrita toteuttaa tehtava....
+SLAY_MSG_4 = Kuole Kuole Kuole Kuole!!!^nLuuseri!
+
+[sv]
+KILL_MSG_1 = Objektet misslyckades^nAtt misslyckas 'a'r inget alternativ^nNu d'o'r du.
+SLAY_MSG_2 = D'o' f'o'rlorare!
+SLAY_MSG_3 = F'o'rs'o'k klara ert uppdrag.
+SLAY_MSG_4 = D'O' D'O' D'O' D'O'!^n F'o'rlorare!
+
+[es]
+KILL_MSG_1 = Objetivo Fracasado^nFallar No Es Una Opcion^nAhora Moriras
+SLAY_MSG_2 = Mueran L0s3rs!!!
+SLAY_MSG_3 = Intenta completar la mision....
+SLAY_MSG_4 = Mueran Mueran Mueran Mueran!!!^nLos3rs!
+
+[nl]
+KILL_MSG_1 = Object gefaald^nFalen is geen optie^nJe gaat nu dood
+SLAY_MSG_2 = Sterf L0s3rs!!!
+SLAY_MSG_3 = Probeer om de missie te vervullen....
+SLAY_MSG_4 = Sterf Sterf Sterf Sterf!!!^nLos3rs!
+
+[ro]
+KILL_MSG_1 = Misiune neindeplinita.^nUn esec nu a fost prevazut.^nTu vei muri acuma!
+SLAY_MSG_2 = Muriti neispravitilor!!!
+SLAY_MSG_3 = Incearca sa indeplinesti misiunea...
+SLAY_MSG_4 = Muriti Muriti Muriti Muriti!!!^nNeispravitilor!
+
+[pl]
+KILL_MSG_1 = Zadanie Niewykonane!^nPrzegrana jest nie do przyjecia!^nJestes Juz Trupem!
+SLAY_MSG_2 = Smierc Przegranym!!!
+SLAY_MSG_3 = Sprobuj wykonac zadanie....
+SLAY_MSG_4 = Smierc Smierc Smierc Smierc!!!^nPrzegrani!
+
+[hu]
+KILL_MSG_1 = Feladat Sikertelen^nSikertelen Turhetetlen^nMost Meghalsz
+SLAY_MSG_2 = L0s3rs Dogoljetek Meg!!!
+SLAY_MSG_3 = Probald meg teljesiteni a feladatot....
+SLAY_MSG_4 = Halal, Halal, Halal!!!^nVesztesek! 
+
+[es]
+KILL_MSG_1 = Objetivo Fracasado^nFallar No Es Una Opcion^nAhora Moriras
+SLAY_MSG_2 = Mueran L0s3rs!!!
+SLAY_MSG_3 = Intenta completar la mision....
+SLAY_MSG_4 = Mueran Mueran Mueran Mueran!!!^nLos3rs!
+
+[de]
+KILL_MSG_1 = Ziel nicht erreicht.^nMisserfolg war keine Zielvorgabe.^nDu wirst jetzt sterben!
+SLAY_MSG_2 = Sterbt Versager!!!
+SLAY_MSG_3 = Versuche die Mission zu erfuellen...
+SLAY_MSG_4 = Sterbt Sterbt Sterbt Sterbt!!!^nVersager!
+
+[nl]
+KILL_MSG_1 = Missie Mislukt^nFalen is geen optie^nJe sterft nu
+SLAY_MSG_2 = Sterf verliezers!!!
+SLAY_MSG_3 = Probeer de missie uit te voeren....
+SLAY_MSG_4 = Sterf sterf sterf!!!^nVerliezers!
+
+[lt]
+KILL_MSG_1 = Misija nepavyko^nO tai netoleruojama^Dabar tu mirsi
+SLAY_MSG_2 = Mirkit n3vyk3liai!!!
+SLAY_MSG_3 = Pasistenkite ivykdyti sia misija...
+SLAY_MSG_4 = Mirkit, mirkit, mirkit, mirkit!!!^nNevyk3liai!
+
+[bg]
+KILL_MSG_1 = Misiqta ne e izpulnena^nTova ne e priemliv variqnt^nSega umirate
+SLAY_MSG_2 = Umrete zagubenqci!!!
+SLAY_MSG_3 = Opitaite se da izpulnite misiqta si....
+SLAY_MSG_4 = Mrete! Mrete! Mrete! Mreeete!!!^nZagubenqci!
+
+[sr]
+KILL_MSG_1 = Niste ispunili svoj zadatak^nNeuspeh nije opcija^nSada cete umreti
+SLAY_MSG_2 = Umrite gubitnici!!!
+SLAY_MSG_3 = Pokusajte da ispunite zadatak....
+SLAY_MSG_4 = Umrite Umrite Umrite Umrite!!!^nGubitnici! 
+
+[bp]
+KILL_MSG_1 = FAlhou Objetivo^nFalhar n eh uma opcao^nVoce morre agora!
+SLAY_MSG_2 = Morram Incompetentes!!!
+SLAY_MSG_3 = Tente completar o objetivo da proxima vez....
+SLAY_MSG_4 = Morram Morram Morram! Noobs
+
+[da]
+KILL_MSG_1 = Misisonen mislykkedes^nAt fejle er ikke en mulighed^nDu dQr nu
+SLAY_MSG_2 = DQ tabere!!!
+SLAY_MSG_3 = Prøv at fuldfoere missionen....
+SLAY_MSG_4 = DQ DQ DQ DQ!!!^nTabere! 
+
+[ru]
+KILL_MSG_1 = Zadanie provaleno!^nProval nedopustim^nUmrite
+SLAY_MSG_2 = Umrite L0s3rq!!!
+SLAY_MSG_3 = Poprobuj zakon4it missiju....
+SLAY_MSG_4 = Umrite umrite umrite!!!^nLos3rq!  
